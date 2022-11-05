@@ -118,4 +118,3 @@ while (True):
     ti.sleep(4)
 
 
-print(eval(input("please Enter equation: ")))
